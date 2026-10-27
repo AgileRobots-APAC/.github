@@ -6,6 +6,8 @@
   <img src="../images/logo-dark.png" height="60" alt="Agile Robots">
 </picture>
 
+**English** | [简体中文](README.zh-CN.md)
+
 ### APAC · Make Robots Agile, Make Integration Easy
 
 [![Website](https://img.shields.io/badge/Website-2C3E50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.agile-robots.com)
@@ -84,7 +86,7 @@ Agile Robots APAC provides open software and developer resources for Agile Robot
     <td>
       <a href="https://github.com/AgileRobots-APAC/diana_development_manual"><img src="https://img.shields.io/badge/diana__development__manual-docs-555?style=flat-square&logo=readthedocs&logoColor=white" alt="diana_development_manual"></a>
     </td>
-    <td>Development manual: installation guides, tutorials and API documentation.</td>
+    <td>Development manual: installation guides, tutorials and usage of commonly used APIs.</td>
   </tr>
 </table>
 
